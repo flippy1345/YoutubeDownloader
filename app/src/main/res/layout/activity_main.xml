@@ -25,10 +25,9 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:gravity="center"
-            android:text="URL : "
+            android:text="@string/urlTextView"
             android:textIsSelectable="false"
-            android:textStyle="bold"
-            tools:text="URL : " />
+            android:textStyle="bold" />
 
         <EditText
             android:id="@+id/urlTexteEdit"
@@ -36,8 +35,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:ems="10"
-            android:inputType="text"
-            android:textIsSelectable="true" />
+            android:inputType="text" />
     </TableRow>
 
     <Button

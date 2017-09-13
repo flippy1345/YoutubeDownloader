@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">YoutubeDownloader</string>
-    <string name="firstStepButton">Next</string>
+    <string name="firstStepButton">Weiter</string>
     <string name="urlTextView">URL :</string>
 </resources>
