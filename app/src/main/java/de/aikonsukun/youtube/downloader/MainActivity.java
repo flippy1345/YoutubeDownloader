@@ -21,8 +21,6 @@ public class MainActivity extends AppCompatActivity {
 
     Button nextButton;
     EditText urlTextEdit;
-
-    int sRC = 0;
     String youtubeLink = "https://www.youtube.com/watch?v=";
 
     @Override
