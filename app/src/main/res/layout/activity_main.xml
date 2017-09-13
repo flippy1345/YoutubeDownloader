@@ -41,13 +41,14 @@
     </TableRow>
 
     <Button
-        android:id="@+id/convertButton"
+        android:id="@+id/firstStepButton"
         android:layout_width="134dp"
         android:layout_height="53dp"
         android:layout_marginBottom="8dp"
         android:layout_marginTop="8dp"
         android:background="@color/colorPrimary"
-        android:text="Convert"
+        android:text="@string/firstStepButton"
+        android:textAppearance="@style/TextAppearance.AppCompat.Subhead.Inverse"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.507"
         app:layout_constraintLeft_toLeftOf="parent"
